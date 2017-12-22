@@ -1,0 +1,13 @@
+{
+    "name": "cviniciussdias/image-organizer",
+    "description": "Organize your images by month and year",
+    "autoload": {
+        "psr-4": {
+            "CViniciusSDias\\ImageOrganizer\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/console": "^4.0",
+        "symfony/finder": "^4.0"
+    }
+}
